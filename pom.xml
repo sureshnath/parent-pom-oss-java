@@ -4,7 +4,7 @@
 
 	<groupId>io.github.sureshnath</groupId>
 	<artifactId>parent-pom-oss-java</artifactId>
-	<version>1.0-snapshot</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Suresh Jaganathan's Parent POM for Java Libraries</name>
