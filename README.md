@@ -39,6 +39,6 @@ You can release the POM to
   this document.
 * Commit the updated `pom.xml` and `README.md`.
 * Run `mvn clean deploy`
-* Add a tag for the release: `git tag lib-parent-XX`
+* Add a tag for the release: `git tag parent-pom-oss-java-XX`
 
 This POM is inspired by [Stefan Birkner](https://github.com/stefanbirkner/lib-parent)
